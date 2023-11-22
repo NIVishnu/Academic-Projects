@@ -1,0 +1,702 @@
+[
+ {
+   "APARTMENT_TYPE_ID": 953,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Saint Paul"
+ },
+ {
+   "APARTMENT_TYPE_ID": 6139,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Manchester"
+ },
+ {
+   "APARTMENT_TYPE_ID": 16188,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Irvine"
+ },
+ {
+   "APARTMENT_TYPE_ID": 19762,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Louisville"
+ },
+ {
+   "APARTMENT_TYPE_ID": 29748,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Billings"
+ },
+ {
+   "APARTMENT_TYPE_ID": 36259,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Fullerton"
+ },
+ {
+   "APARTMENT_TYPE_ID": 48324,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Fresno"
+ },
+ {
+   "APARTMENT_TYPE_ID": 70102,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Kingsport"
+ },
+ {
+   "APARTMENT_TYPE_ID": 74791,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Manchester"
+ },
+ {
+   "APARTMENT_TYPE_ID": 83226,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Watertown"
+ },
+ {
+   "APARTMENT_TYPE_ID": 105675,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Fort Pierce"
+ },
+ {
+   "APARTMENT_TYPE_ID": 108791,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Richmond"
+ },
+ {
+   "APARTMENT_TYPE_ID": 113629,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Jamaica"
+ },
+ {
+   "APARTMENT_TYPE_ID": 118417,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Warren"
+ },
+ {
+   "APARTMENT_TYPE_ID": 125640,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Denver"
+ },
+ {
+   "APARTMENT_TYPE_ID": 125933,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Fort Worth"
+ },
+ {
+   "APARTMENT_TYPE_ID": 129606,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Denver"
+ },
+ {
+   "APARTMENT_TYPE_ID": 148283,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Stockton"
+ },
+ {
+   "APARTMENT_TYPE_ID": 151776,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Youngstown"
+ },
+ {
+   "APARTMENT_TYPE_ID": 153171,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Fort Wayne"
+ },
+ {
+   "APARTMENT_TYPE_ID": 153673,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Springfield"
+ },
+ {
+   "APARTMENT_TYPE_ID": 161057,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Fresno"
+ },
+ {
+   "APARTMENT_TYPE_ID": 169392,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Lexington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 206170,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Detroit"
+ },
+ {
+   "APARTMENT_TYPE_ID": 218719,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Pompano Beach"
+ },
+ {
+   "APARTMENT_TYPE_ID": 232633,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Lincoln"
+ },
+ {
+   "APARTMENT_TYPE_ID": 282725,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Tampa"
+ },
+ {
+   "APARTMENT_TYPE_ID": 290282,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Lincoln"
+ },
+ {
+   "APARTMENT_TYPE_ID": 296848,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Denton"
+ },
+ {
+   "APARTMENT_TYPE_ID": 300651,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Beaumont"
+ },
+ {
+   "APARTMENT_TYPE_ID": 309075,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Cincinnati"
+ },
+ {
+   "APARTMENT_TYPE_ID": 310650,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Midland"
+ },
+ {
+   "APARTMENT_TYPE_ID": 315499,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Washington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 317332,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Salt Lake City"
+ },
+ {
+   "APARTMENT_TYPE_ID": 328335,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Valdosta"
+ },
+ {
+   "APARTMENT_TYPE_ID": 330745,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Indianapolis"
+ },
+ {
+   "APARTMENT_TYPE_ID": 351693,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Las Vegas"
+ },
+ {
+   "APARTMENT_TYPE_ID": 366989,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Washington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 367816,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Huntington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 372317,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Denver"
+ },
+ {
+   "APARTMENT_TYPE_ID": 420898,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Cincinnati"
+ },
+ {
+   "APARTMENT_TYPE_ID": 437416,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Charleston"
+ },
+ {
+   "APARTMENT_TYPE_ID": 455869,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Toledo"
+ },
+ {
+   "APARTMENT_TYPE_ID": 456564,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "San Antonio"
+ },
+ {
+   "APARTMENT_TYPE_ID": 457905,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Arlington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 460506,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Las Vegas"
+ },
+ {
+   "APARTMENT_TYPE_ID": 505186,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Irvine"
+ },
+ {
+   "APARTMENT_TYPE_ID": 506699,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "New York City"
+ },
+ {
+   "APARTMENT_TYPE_ID": 510875,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Wichita"
+ },
+ {
+   "APARTMENT_TYPE_ID": 514074,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "New Orleans"
+ },
+ {
+   "APARTMENT_TYPE_ID": 519675,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Salem"
+ },
+ {
+   "APARTMENT_TYPE_ID": 539734,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Lexington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 552700,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Kansas City"
+ },
+ {
+   "APARTMENT_TYPE_ID": 557472,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Bismarck"
+ },
+ {
+   "APARTMENT_TYPE_ID": 575886,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Santa Barbara"
+ },
+ {
+   "APARTMENT_TYPE_ID": 591033,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Merrifield"
+ },
+ {
+   "APARTMENT_TYPE_ID": 610793,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Cleveland"
+ },
+ {
+   "APARTMENT_TYPE_ID": 611190,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Shawnee Mission"
+ },
+ {
+   "APARTMENT_TYPE_ID": 612152,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Brooklyn"
+ },
+ {
+   "APARTMENT_TYPE_ID": 628498,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Tulsa"
+ },
+ {
+   "APARTMENT_TYPE_ID": 632049,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Newark"
+ },
+ {
+   "APARTMENT_TYPE_ID": 634398,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Miami"
+ },
+ {
+   "APARTMENT_TYPE_ID": 634434,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Honolulu"
+ },
+ {
+   "APARTMENT_TYPE_ID": 668047,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Anaheim"
+ },
+ {
+   "APARTMENT_TYPE_ID": 680040,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Washington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 681891,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Milwaukee"
+ },
+ {
+   "APARTMENT_TYPE_ID": 687206,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Washington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 688327,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Florence"
+ },
+ {
+   "APARTMENT_TYPE_ID": 689513,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Phoenix"
+ },
+ {
+   "APARTMENT_TYPE_ID": 689658,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Sacramento"
+ },
+ {
+   "APARTMENT_TYPE_ID": 693685,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Erie"
+ },
+ {
+   "APARTMENT_TYPE_ID": 693781,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Fort Worth"
+ },
+ {
+   "APARTMENT_TYPE_ID": 703532,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Huntsville"
+ },
+ {
+   "APARTMENT_TYPE_ID": 710024,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "New Haven"
+ },
+ {
+   "APARTMENT_TYPE_ID": 714645,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Washington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 722303,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Washington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 743856,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Huntington Beach"
+ },
+ {
+   "APARTMENT_TYPE_ID": 747472,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Columbus"
+ },
+ {
+   "APARTMENT_TYPE_ID": 754224,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "San Antonio"
+ },
+ {
+   "APARTMENT_TYPE_ID": 775237,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Evansville"
+ },
+ {
+   "APARTMENT_TYPE_ID": 806336,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Portsmouth"
+ },
+ {
+   "APARTMENT_TYPE_ID": 811715,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Houston"
+ },
+ {
+   "APARTMENT_TYPE_ID": 817174,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Lexington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 827932,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Melbourne"
+ },
+ {
+   "APARTMENT_TYPE_ID": 843653,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 4,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Saint Joseph"
+ },
+ {
+   "APARTMENT_TYPE_ID": 852221,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Santa Barbara"
+ },
+ {
+   "APARTMENT_TYPE_ID": 869199,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Washington"
+ },
+ {
+   "APARTMENT_TYPE_ID": 880377,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Baltimore"
+ },
+ {
+   "APARTMENT_TYPE_ID": 887919,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Long Beach"
+ },
+ {
+   "APARTMENT_TYPE_ID": 904017,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "San Diego"
+ },
+ {
+   "APARTMENT_TYPE_ID": 904633,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Roanoke"
+ },
+ {
+   "APARTMENT_TYPE_ID": 910408,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Laredo"
+ },
+ {
+   "APARTMENT_TYPE_ID": 943594,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Shawnee Mission"
+ },
+ {
+   "APARTMENT_TYPE_ID": 948170,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Springfield"
+ },
+ {
+   "APARTMENT_TYPE_ID": 954151,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Hartford"
+ },
+ {
+   "APARTMENT_TYPE_ID": 968645,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Fresno"
+ },
+ {
+   "APARTMENT_TYPE_ID": 979679,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 3,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Wichita"
+ },
+ {
+   "APARTMENT_TYPE_ID": 984012,
+   "APARTMENT_TYPE": "Condo",
+   "NUMBER_OF_ROOMS": 5,
+   "NUMBER_OF_BATHROOMS": 1,
+   "LOCALITY": "Salt Lake City"
+ },
+ {
+   "APARTMENT_TYPE_ID": 989571,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 1,
+   "NUMBER_OF_BATHROOMS": 2,
+   "LOCALITY": "Fresno"
+ },
+ {
+   "APARTMENT_TYPE_ID": 999674,
+   "APARTMENT_TYPE": "Apartment",
+   "NUMBER_OF_ROOMS": 2,
+   "NUMBER_OF_BATHROOMS": 3,
+   "LOCALITY": "Des Moines"
+ }
+]

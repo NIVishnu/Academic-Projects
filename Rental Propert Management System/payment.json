@@ -1,0 +1,1613 @@
+[
+ {
+   "PAYMENT_ID": 600000,
+   "LEASE_ID": 14170,
+   "PAYEE_NAME": "Maxie",
+   "AMOUNT_TRANSFERRED": 1842,
+   "TRANSACTION_DATE": "2021-12-17",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-21"
+ },
+ {
+   "PAYMENT_ID": 600006,
+   "LEASE_ID": 14108,
+   "PAYEE_NAME": "Gilemette",
+   "AMOUNT_TRANSFERRED": 2124,
+   "TRANSACTION_DATE": "2021-12-21",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-10"
+ },
+ {
+   "PAYMENT_ID": 600010,
+   "LEASE_ID": 13142,
+   "PAYEE_NAME": "Tiebout",
+   "AMOUNT_TRANSFERRED": 4287,
+   "TRANSACTION_DATE": "2021-11-22",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-21"
+ },
+ {
+   "PAYMENT_ID": 600012,
+   "LEASE_ID": 14123,
+   "PAYEE_NAME": "Victoir",
+   "AMOUNT_TRANSFERRED": 3744,
+   "TRANSACTION_DATE": "2021-11-29",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-28"
+ },
+ {
+   "PAYMENT_ID": 600015,
+   "LEASE_ID": 19163,
+   "PAYEE_NAME": "Briny",
+   "AMOUNT_TRANSFERRED": 4559,
+   "TRANSACTION_DATE": "2021-11-05",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2023-01-05"
+ },
+ {
+   "PAYMENT_ID": 600019,
+   "LEASE_ID": 19135,
+   "PAYEE_NAME": "Margarette",
+   "AMOUNT_TRANSFERRED": 3244,
+   "TRANSACTION_DATE": "2021-12-10",
+   "PAYMENT_TYPE": "diners-club-enroute",
+   "DUE_DATE": "2022-10-06"
+ },
+ {
+   "PAYMENT_ID": 600021,
+   "LEASE_ID": 17124,
+   "PAYEE_NAME": "Tomas",
+   "AMOUNT_TRANSFERRED": 2924,
+   "TRANSACTION_DATE": "2021-11-05",
+   "PAYMENT_TYPE": "instapayment",
+   "DUE_DATE": "2022-09-21"
+ },
+ {
+   "PAYMENT_ID": 600025,
+   "LEASE_ID": 10106,
+   "PAYEE_NAME": "Marice",
+   "AMOUNT_TRANSFERRED": 4701,
+   "TRANSACTION_DATE": "2021-11-12",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-29"
+ },
+ {
+   "PAYMENT_ID": 600032,
+   "LEASE_ID": 19138,
+   "PAYEE_NAME": "Tiffany",
+   "AMOUNT_TRANSFERRED": 2698,
+   "TRANSACTION_DATE": "2021-11-14",
+   "PAYMENT_TYPE": "visa-electron",
+   "DUE_DATE": "2022-09-28"
+ },
+ {
+   "PAYMENT_ID": 600033,
+   "LEASE_ID": 16115,
+   "PAYEE_NAME": "Tabbie",
+   "AMOUNT_TRANSFERRED": 3055,
+   "TRANSACTION_DATE": "2021-12-06",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2023-01-10"
+ },
+ {
+   "PAYMENT_ID": 600036,
+   "LEASE_ID": 19183,
+   "PAYEE_NAME": "Berte",
+   "AMOUNT_TRANSFERRED": 3728,
+   "TRANSACTION_DATE": "2021-11-25",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-12-14"
+ },
+ {
+   "PAYMENT_ID": 600040,
+   "LEASE_ID": 19195,
+   "PAYEE_NAME": "Sukey",
+   "AMOUNT_TRANSFERRED": 4891,
+   "TRANSACTION_DATE": "2021-11-21",
+   "PAYMENT_TYPE": "instapayment",
+   "DUE_DATE": "2022-12-05"
+ },
+ {
+   "PAYMENT_ID": 600043,
+   "LEASE_ID": 19197,
+   "PAYEE_NAME": "Cary",
+   "AMOUNT_TRANSFERRED": 5745,
+   "TRANSACTION_DATE": "2021-11-11",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-28"
+ },
+ {
+   "PAYMENT_ID": 600049,
+   "LEASE_ID": 12115,
+   "PAYEE_NAME": "Codee",
+   "AMOUNT_TRANSFERRED": 1358,
+   "TRANSACTION_DATE": "2021-12-27",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2023-01-25"
+ },
+ {
+   "PAYMENT_ID": 600053,
+   "LEASE_ID": 16115,
+   "PAYEE_NAME": "Tabbie",
+   "AMOUNT_TRANSFERRED": 3606,
+   "TRANSACTION_DATE": "2021-12-20",
+   "PAYMENT_TYPE": "solo",
+   "DUE_DATE": "2022-09-29"
+ },
+ {
+   "PAYMENT_ID": 600057,
+   "LEASE_ID": 10139,
+   "PAYEE_NAME": "Sheridan",
+   "AMOUNT_TRANSFERRED": 1484,
+   "TRANSACTION_DATE": "2021-12-27",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-08"
+ },
+ {
+   "PAYMENT_ID": 600064,
+   "LEASE_ID": 14128,
+   "PAYEE_NAME": "Danette",
+   "AMOUNT_TRANSFERRED": 4619,
+   "TRANSACTION_DATE": "2021-12-29",
+   "PAYMENT_TYPE": "laser",
+   "DUE_DATE": "2023-01-18"
+ },
+ {
+   "PAYMENT_ID": 600065,
+   "LEASE_ID": 10162,
+   "PAYEE_NAME": "Lonny",
+   "AMOUNT_TRANSFERRED": 1516,
+   "TRANSACTION_DATE": "2021-11-29",
+   "PAYMENT_TYPE": "diners-club-carte-blanche",
+   "DUE_DATE": "2022-11-20"
+ },
+ {
+   "PAYMENT_ID": 600073,
+   "LEASE_ID": 15124,
+   "PAYEE_NAME": "Mignon",
+   "AMOUNT_TRANSFERRED": 2486,
+   "TRANSACTION_DATE": "2021-11-18",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2023-01-07"
+ },
+ {
+   "PAYMENT_ID": 600080,
+   "LEASE_ID": 16113,
+   "PAYEE_NAME": "Vi",
+   "AMOUNT_TRANSFERRED": 3595,
+   "TRANSACTION_DATE": "2021-11-12",
+   "PAYMENT_TYPE": "diners-club-enroute",
+   "DUE_DATE": "2022-10-07"
+ },
+ {
+   "PAYMENT_ID": 600084,
+   "LEASE_ID": 14111,
+   "PAYEE_NAME": "Dov",
+   "AMOUNT_TRANSFERRED": 2792,
+   "TRANSACTION_DATE": "2021-12-01",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-10-18"
+ },
+ {
+   "PAYMENT_ID": 600096,
+   "LEASE_ID": 19132,
+   "PAYEE_NAME": "Dur",
+   "AMOUNT_TRANSFERRED": 5816,
+   "TRANSACTION_DATE": "2021-11-17",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-06"
+ },
+ {
+   "PAYMENT_ID": 600102,
+   "LEASE_ID": 16176,
+   "PAYEE_NAME": "Teodor",
+   "AMOUNT_TRANSFERRED": 4228,
+   "TRANSACTION_DATE": "2021-12-05",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-11-15"
+ },
+ {
+   "PAYMENT_ID": 600114,
+   "LEASE_ID": 17111,
+   "PAYEE_NAME": "Delano",
+   "AMOUNT_TRANSFERRED": 3069,
+   "TRANSACTION_DATE": "2021-11-08",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-10"
+ },
+ {
+   "PAYMENT_ID": 600125,
+   "LEASE_ID": 18114,
+   "PAYEE_NAME": "Nesta",
+   "AMOUNT_TRANSFERRED": 2855,
+   "TRANSACTION_DATE": "2021-11-06",
+   "PAYMENT_TYPE": "mastercard",
+   "DUE_DATE": "2022-09-20"
+ },
+ {
+   "PAYMENT_ID": 600137,
+   "LEASE_ID": 13192,
+   "PAYEE_NAME": "Padriac",
+   "AMOUNT_TRANSFERRED": 4241,
+   "TRANSACTION_DATE": "2021-12-28",
+   "PAYMENT_TYPE": "bankcard",
+   "DUE_DATE": "2022-12-22"
+ },
+ {
+   "PAYMENT_ID": 600147,
+   "LEASE_ID": 15109,
+   "PAYEE_NAME": "Saunders",
+   "AMOUNT_TRANSFERRED": 2061,
+   "TRANSACTION_DATE": "2021-11-17",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-03"
+ },
+ {
+   "PAYMENT_ID": 600150,
+   "LEASE_ID": 16158,
+   "PAYEE_NAME": "Terri",
+   "AMOUNT_TRANSFERRED": 2193,
+   "TRANSACTION_DATE": "2021-11-09",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-10"
+ },
+ {
+   "PAYMENT_ID": 600155,
+   "LEASE_ID": 14128,
+   "PAYEE_NAME": "Danette",
+   "AMOUNT_TRANSFERRED": 1748,
+   "TRANSACTION_DATE": "2021-11-22",
+   "PAYMENT_TYPE": "visa-electron",
+   "DUE_DATE": "2022-10-14"
+ },
+ {
+   "PAYMENT_ID": 600156,
+   "LEASE_ID": 15108,
+   "PAYEE_NAME": "Elnore",
+   "AMOUNT_TRANSFERRED": 2551,
+   "TRANSACTION_DATE": "2021-12-04",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-12-13"
+ },
+ {
+   "PAYMENT_ID": 600159,
+   "LEASE_ID": 18192,
+   "PAYEE_NAME": "Meryl",
+   "AMOUNT_TRANSFERRED": 3065,
+   "TRANSACTION_DATE": "2021-12-25",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-27"
+ },
+ {
+   "PAYMENT_ID": 600165,
+   "LEASE_ID": 10162,
+   "PAYEE_NAME": "Lonny",
+   "AMOUNT_TRANSFERRED": 2280,
+   "TRANSACTION_DATE": "2021-12-26",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-03"
+ },
+ {
+   "PAYMENT_ID": 600167,
+   "LEASE_ID": 15124,
+   "PAYEE_NAME": "Mignon",
+   "AMOUNT_TRANSFERRED": 5988,
+   "TRANSACTION_DATE": "2021-11-04",
+   "PAYMENT_TYPE": "visa-electron",
+   "DUE_DATE": "2022-12-25"
+ },
+ {
+   "PAYMENT_ID": 600168,
+   "LEASE_ID": 16123,
+   "PAYEE_NAME": "Mattheus",
+   "AMOUNT_TRANSFERRED": 4089,
+   "TRANSACTION_DATE": "2021-12-10",
+   "PAYMENT_TYPE": "laser",
+   "DUE_DATE": "2022-12-18"
+ },
+ {
+   "PAYMENT_ID": 600169,
+   "LEASE_ID": 15119,
+   "PAYEE_NAME": "Geoffrey",
+   "AMOUNT_TRANSFERRED": 4537,
+   "TRANSACTION_DATE": "2021-12-06",
+   "PAYMENT_TYPE": "visa",
+   "DUE_DATE": "2022-12-14"
+ },
+ {
+   "PAYMENT_ID": 600170,
+   "LEASE_ID": 13199,
+   "PAYEE_NAME": "Cassy",
+   "AMOUNT_TRANSFERRED": 4649,
+   "TRANSACTION_DATE": "2021-11-29",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-27"
+ },
+ {
+   "PAYMENT_ID": 600172,
+   "LEASE_ID": 12122,
+   "PAYEE_NAME": "Marcello",
+   "AMOUNT_TRANSFERRED": 1812,
+   "TRANSACTION_DATE": "2021-12-11",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-28"
+ },
+ {
+   "PAYMENT_ID": 600176,
+   "LEASE_ID": 14170,
+   "PAYEE_NAME": "Maxie",
+   "AMOUNT_TRANSFERRED": 5562,
+   "TRANSACTION_DATE": "2021-11-06",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-28"
+ },
+ {
+   "PAYMENT_ID": 600180,
+   "LEASE_ID": 13121,
+   "PAYEE_NAME": "Hedda",
+   "AMOUNT_TRANSFERRED": 1589,
+   "TRANSACTION_DATE": "2021-12-05",
+   "PAYMENT_TYPE": "china-unionpay",
+   "DUE_DATE": "2022-11-29"
+ },
+ {
+   "PAYMENT_ID": 600189,
+   "LEASE_ID": 16102,
+   "PAYEE_NAME": "Edvard",
+   "AMOUNT_TRANSFERRED": 5043,
+   "TRANSACTION_DATE": "2021-12-22",
+   "PAYMENT_TYPE": "laser",
+   "DUE_DATE": "2022-10-18"
+ },
+ {
+   "PAYMENT_ID": 600190,
+   "LEASE_ID": 14178,
+   "PAYEE_NAME": "Robinet",
+   "AMOUNT_TRANSFERRED": 4456,
+   "TRANSACTION_DATE": "2021-12-01",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-14"
+ },
+ {
+   "PAYMENT_ID": 600209,
+   "LEASE_ID": 19132,
+   "PAYEE_NAME": "Dur",
+   "AMOUNT_TRANSFERRED": 2840,
+   "TRANSACTION_DATE": "2021-11-12",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-11-15"
+ },
+ {
+   "PAYMENT_ID": 600214,
+   "LEASE_ID": 17113,
+   "PAYEE_NAME": "Jeniece",
+   "AMOUNT_TRANSFERRED": 5811,
+   "TRANSACTION_DATE": "2021-12-19",
+   "PAYMENT_TYPE": "visa-electron",
+   "DUE_DATE": "2022-12-30"
+ },
+ {
+   "PAYMENT_ID": 600216,
+   "LEASE_ID": 15164,
+   "PAYEE_NAME": "Di",
+   "AMOUNT_TRANSFERRED": 4873,
+   "TRANSACTION_DATE": "2021-11-08",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2022-09-06"
+ },
+ {
+   "PAYMENT_ID": 600225,
+   "LEASE_ID": 16186,
+   "PAYEE_NAME": "Valle",
+   "AMOUNT_TRANSFERRED": 3192,
+   "TRANSACTION_DATE": "2021-12-15",
+   "PAYMENT_TYPE": "visa-electron",
+   "DUE_DATE": "2022-09-10"
+ },
+ {
+   "PAYMENT_ID": 600226,
+   "LEASE_ID": 19133,
+   "PAYEE_NAME": "Annetta",
+   "AMOUNT_TRANSFERRED": 1014,
+   "TRANSACTION_DATE": "2021-11-07",
+   "PAYMENT_TYPE": "mastercard",
+   "DUE_DATE": "2022-09-25"
+ },
+ {
+   "PAYMENT_ID": 600228,
+   "LEASE_ID": 10138,
+   "PAYEE_NAME": "Rodolfo",
+   "AMOUNT_TRANSFERRED": 4831,
+   "TRANSACTION_DATE": "2021-12-20",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-11-22"
+ },
+ {
+   "PAYMENT_ID": 600233,
+   "LEASE_ID": 19185,
+   "PAYEE_NAME": "Rutherford",
+   "AMOUNT_TRANSFERRED": 2439,
+   "TRANSACTION_DATE": "2021-12-17",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-30"
+ },
+ {
+   "PAYMENT_ID": 600236,
+   "LEASE_ID": 17112,
+   "PAYEE_NAME": "Jaquenette",
+   "AMOUNT_TRANSFERRED": 5445,
+   "TRANSACTION_DATE": "2021-11-04",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-12-29"
+ },
+ {
+   "PAYMENT_ID": 600239,
+   "LEASE_ID": 16113,
+   "PAYEE_NAME": "Vi",
+   "AMOUNT_TRANSFERRED": 3717,
+   "TRANSACTION_DATE": "2021-12-02",
+   "PAYMENT_TYPE": "diners-club-enroute",
+   "DUE_DATE": "2022-10-04"
+ },
+ {
+   "PAYMENT_ID": 600241,
+   "LEASE_ID": 17125,
+   "PAYEE_NAME": "Geordie",
+   "AMOUNT_TRANSFERRED": 2394,
+   "TRANSACTION_DATE": "2021-11-27",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-21"
+ },
+ {
+   "PAYMENT_ID": 600245,
+   "LEASE_ID": 10164,
+   "PAYEE_NAME": "Marabel",
+   "AMOUNT_TRANSFERRED": 4236,
+   "TRANSACTION_DATE": "2021-12-13",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-12-24"
+ },
+ {
+   "PAYMENT_ID": 600250,
+   "LEASE_ID": 16155,
+   "PAYEE_NAME": "Marjy",
+   "AMOUNT_TRANSFERRED": 3602,
+   "TRANSACTION_DATE": "2021-12-30",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-12-11"
+ },
+ {
+   "PAYMENT_ID": 600254,
+   "LEASE_ID": 11183,
+   "PAYEE_NAME": "Deidre",
+   "AMOUNT_TRANSFERRED": 4769,
+   "TRANSACTION_DATE": "2021-12-03",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-11-19"
+ },
+ {
+   "PAYMENT_ID": 600260,
+   "LEASE_ID": 10145,
+   "PAYEE_NAME": "Marci",
+   "AMOUNT_TRANSFERRED": 2754,
+   "TRANSACTION_DATE": "2021-12-01",
+   "PAYMENT_TYPE": "mastercard",
+   "DUE_DATE": "2022-11-03"
+ },
+ {
+   "PAYMENT_ID": 600261,
+   "LEASE_ID": 18183,
+   "PAYEE_NAME": "Meredithe",
+   "AMOUNT_TRANSFERRED": 1310,
+   "TRANSACTION_DATE": "2021-11-07",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-18"
+ },
+ {
+   "PAYMENT_ID": 600262,
+   "LEASE_ID": 15106,
+   "PAYEE_NAME": "Shellie",
+   "AMOUNT_TRANSFERRED": 1829,
+   "TRANSACTION_DATE": "2021-11-15",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-10"
+ },
+ {
+   "PAYMENT_ID": 600268,
+   "LEASE_ID": 10164,
+   "PAYEE_NAME": "Marabel",
+   "AMOUNT_TRANSFERRED": 5457,
+   "TRANSACTION_DATE": "2021-11-29",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-23"
+ },
+ {
+   "PAYMENT_ID": 600270,
+   "LEASE_ID": 16105,
+   "PAYEE_NAME": "Billy",
+   "AMOUNT_TRANSFERRED": 1038,
+   "TRANSACTION_DATE": "2021-12-01",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-26"
+ },
+ {
+   "PAYMENT_ID": 600271,
+   "LEASE_ID": 19198,
+   "PAYEE_NAME": "Jeremy",
+   "AMOUNT_TRANSFERRED": 5880,
+   "TRANSACTION_DATE": "2021-11-04",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-18"
+ },
+ {
+   "PAYMENT_ID": 600281,
+   "LEASE_ID": 10184,
+   "PAYEE_NAME": "Filide",
+   "AMOUNT_TRANSFERRED": 5093,
+   "TRANSACTION_DATE": "2021-12-23",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-24"
+ },
+ {
+   "PAYMENT_ID": 600300,
+   "LEASE_ID": 18129,
+   "PAYEE_NAME": "Roddie",
+   "AMOUNT_TRANSFERRED": 4191,
+   "TRANSACTION_DATE": "2021-12-02",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-15"
+ },
+ {
+   "PAYMENT_ID": 600304,
+   "LEASE_ID": 19119,
+   "PAYEE_NAME": "Alexandr",
+   "AMOUNT_TRANSFERRED": 4491,
+   "TRANSACTION_DATE": "2021-11-07",
+   "PAYMENT_TYPE": "china-unionpay",
+   "DUE_DATE": "2023-01-23"
+ },
+ {
+   "PAYMENT_ID": 600307,
+   "LEASE_ID": 12122,
+   "PAYEE_NAME": "Marcello",
+   "AMOUNT_TRANSFERRED": 2789,
+   "TRANSACTION_DATE": "2021-12-24",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-12-19"
+ },
+ {
+   "PAYMENT_ID": 600312,
+   "LEASE_ID": 19198,
+   "PAYEE_NAME": "Jeremy",
+   "AMOUNT_TRANSFERRED": 2338,
+   "TRANSACTION_DATE": "2021-12-04",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2022-12-25"
+ },
+ {
+   "PAYMENT_ID": 600313,
+   "LEASE_ID": 14121,
+   "PAYEE_NAME": "Cyndie",
+   "AMOUNT_TRANSFERRED": 4002,
+   "TRANSACTION_DATE": "2021-11-22",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-12-05"
+ },
+ {
+   "PAYMENT_ID": 600323,
+   "LEASE_ID": 19169,
+   "PAYEE_NAME": "Jenna",
+   "AMOUNT_TRANSFERRED": 1879,
+   "TRANSACTION_DATE": "2021-12-03",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-02"
+ },
+ {
+   "PAYMENT_ID": 600338,
+   "LEASE_ID": 14119,
+   "PAYEE_NAME": "Ingeborg",
+   "AMOUNT_TRANSFERRED": 5316,
+   "TRANSACTION_DATE": "2021-12-07",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-17"
+ },
+ {
+   "PAYMENT_ID": 600343,
+   "LEASE_ID": 10145,
+   "PAYEE_NAME": "Marci",
+   "AMOUNT_TRANSFERRED": 5144,
+   "TRANSACTION_DATE": "2021-12-29",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-09-29"
+ },
+ {
+   "PAYMENT_ID": 600354,
+   "LEASE_ID": 11189,
+   "PAYEE_NAME": "Bo",
+   "AMOUNT_TRANSFERRED": 2754,
+   "TRANSACTION_DATE": "2021-12-08",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-24"
+ },
+ {
+   "PAYMENT_ID": 600358,
+   "LEASE_ID": 12151,
+   "PAYEE_NAME": "Tanney",
+   "AMOUNT_TRANSFERRED": 1662,
+   "TRANSACTION_DATE": "2021-11-06",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-31"
+ },
+ {
+   "PAYMENT_ID": 600362,
+   "LEASE_ID": 18181,
+   "PAYEE_NAME": "Corena",
+   "AMOUNT_TRANSFERRED": 3144,
+   "TRANSACTION_DATE": "2021-12-14",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-02"
+ },
+ {
+   "PAYMENT_ID": 600363,
+   "LEASE_ID": 15148,
+   "PAYEE_NAME": "Muhammad",
+   "AMOUNT_TRANSFERRED": 5727,
+   "TRANSACTION_DATE": "2021-11-15",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-25"
+ },
+ {
+   "PAYMENT_ID": 600365,
+   "LEASE_ID": 14108,
+   "PAYEE_NAME": "Denyse",
+   "AMOUNT_TRANSFERRED": 2587,
+   "TRANSACTION_DATE": "2021-12-06",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-11"
+ },
+ {
+   "PAYMENT_ID": 600367,
+   "LEASE_ID": 18156,
+   "PAYEE_NAME": "Haley",
+   "AMOUNT_TRANSFERRED": 2229,
+   "TRANSACTION_DATE": "2021-12-10",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-02"
+ },
+ {
+   "PAYMENT_ID": 600370,
+   "LEASE_ID": 16168,
+   "PAYEE_NAME": "Kristien",
+   "AMOUNT_TRANSFERRED": 2854,
+   "TRANSACTION_DATE": "2021-12-13",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-20"
+ },
+ {
+   "PAYMENT_ID": 600371,
+   "LEASE_ID": 14145,
+   "PAYEE_NAME": "Candace",
+   "AMOUNT_TRANSFERRED": 5378,
+   "TRANSACTION_DATE": "2021-11-04",
+   "PAYMENT_TYPE": "diners-club-enroute",
+   "DUE_DATE": "2022-12-24"
+ },
+ {
+   "PAYMENT_ID": 600375,
+   "LEASE_ID": 11118,
+   "PAYEE_NAME": "Cammy",
+   "AMOUNT_TRANSFERRED": 4074,
+   "TRANSACTION_DATE": "2021-11-04",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-22"
+ },
+ {
+   "PAYMENT_ID": 600383,
+   "LEASE_ID": 13199,
+   "PAYEE_NAME": "Teddi",
+   "AMOUNT_TRANSFERRED": 3631,
+   "TRANSACTION_DATE": "2021-11-04",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2023-01-26"
+ },
+ {
+   "PAYMENT_ID": 600400,
+   "LEASE_ID": 12151,
+   "PAYEE_NAME": "Tanney",
+   "AMOUNT_TRANSFERRED": 4444,
+   "TRANSACTION_DATE": "2021-12-14",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2022-12-11"
+ },
+ {
+   "PAYMENT_ID": 600407,
+   "LEASE_ID": 17111,
+   "PAYEE_NAME": "Delano",
+   "AMOUNT_TRANSFERRED": 5582,
+   "TRANSACTION_DATE": "2021-12-26",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-12-23"
+ },
+ {
+   "PAYMENT_ID": 600416,
+   "LEASE_ID": 13142,
+   "PAYEE_NAME": "Tiebout",
+   "AMOUNT_TRANSFERRED": 1019,
+   "TRANSACTION_DATE": "2021-11-10",
+   "PAYMENT_TYPE": "visa-electron",
+   "DUE_DATE": "2022-09-15"
+ },
+ {
+   "PAYMENT_ID": 600422,
+   "LEASE_ID": 10139,
+   "PAYEE_NAME": "Sheridan",
+   "AMOUNT_TRANSFERRED": 5252,
+   "TRANSACTION_DATE": "2021-11-14",
+   "PAYMENT_TYPE": "china-unionpay",
+   "DUE_DATE": "2022-09-05"
+ },
+ {
+   "PAYMENT_ID": 600423,
+   "LEASE_ID": 14108,
+   "PAYEE_NAME": "Denyse",
+   "AMOUNT_TRANSFERRED": 1974,
+   "TRANSACTION_DATE": "2021-12-19",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-12-28"
+ },
+ {
+   "PAYMENT_ID": 600424,
+   "LEASE_ID": 19187,
+   "PAYEE_NAME": "Jonell",
+   "AMOUNT_TRANSFERRED": 1334,
+   "TRANSACTION_DATE": "2021-12-02",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-12-03"
+ },
+ {
+   "PAYMENT_ID": 600426,
+   "LEASE_ID": 14145,
+   "PAYEE_NAME": "Candace",
+   "AMOUNT_TRANSFERRED": 4275,
+   "TRANSACTION_DATE": "2021-11-15",
+   "PAYMENT_TYPE": "mastercard",
+   "DUE_DATE": "2022-09-29"
+ },
+ {
+   "PAYMENT_ID": 600428,
+   "LEASE_ID": 16158,
+   "PAYEE_NAME": "Terri",
+   "AMOUNT_TRANSFERRED": 1189,
+   "TRANSACTION_DATE": "2021-11-19",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2022-09-17"
+ },
+ {
+   "PAYMENT_ID": 600435,
+   "LEASE_ID": 19135,
+   "PAYEE_NAME": "Margarette",
+   "AMOUNT_TRANSFERRED": 4503,
+   "TRANSACTION_DATE": "2021-12-11",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-23"
+ },
+ {
+   "PAYMENT_ID": 600443,
+   "LEASE_ID": 16123,
+   "PAYEE_NAME": "Mattheus",
+   "AMOUNT_TRANSFERRED": 4923,
+   "TRANSACTION_DATE": "2021-11-12",
+   "PAYMENT_TYPE": "laser",
+   "DUE_DATE": "2022-09-01"
+ },
+ {
+   "PAYMENT_ID": 600449,
+   "LEASE_ID": 13142,
+   "PAYEE_NAME": "Charlotta",
+   "AMOUNT_TRANSFERRED": 3432,
+   "TRANSACTION_DATE": "2021-12-14",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-28"
+ },
+ {
+   "PAYMENT_ID": 600451,
+   "LEASE_ID": 11109,
+   "PAYEE_NAME": "Jaclyn",
+   "AMOUNT_TRANSFERRED": 1310,
+   "TRANSACTION_DATE": "2021-11-19",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-09-08"
+ },
+ {
+   "PAYMENT_ID": 600458,
+   "LEASE_ID": 13120,
+   "PAYEE_NAME": "Denny",
+   "AMOUNT_TRANSFERRED": 3650,
+   "TRANSACTION_DATE": "2021-12-18",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2023-01-27"
+ },
+ {
+   "PAYMENT_ID": 600472,
+   "LEASE_ID": 17165,
+   "PAYEE_NAME": "Siouxie",
+   "AMOUNT_TRANSFERRED": 2354,
+   "TRANSACTION_DATE": "2021-11-17",
+   "PAYMENT_TYPE": "laser",
+   "DUE_DATE": "2023-01-01"
+ },
+ {
+   "PAYMENT_ID": 600476,
+   "LEASE_ID": 11158,
+   "PAYEE_NAME": "Jarrid",
+   "AMOUNT_TRANSFERRED": 5830,
+   "TRANSACTION_DATE": "2021-11-30",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-12-13"
+ },
+ {
+   "PAYMENT_ID": 600482,
+   "LEASE_ID": 19189,
+   "PAYEE_NAME": "Kimberlee",
+   "AMOUNT_TRANSFERRED": 1079,
+   "TRANSACTION_DATE": "2021-11-22",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-09-30"
+ },
+ {
+   "PAYMENT_ID": 600486,
+   "LEASE_ID": 18135,
+   "PAYEE_NAME": "Griffin",
+   "AMOUNT_TRANSFERRED": 2548,
+   "TRANSACTION_DATE": "2021-12-08",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-02"
+ },
+ {
+   "PAYMENT_ID": 600498,
+   "LEASE_ID": 19193,
+   "PAYEE_NAME": "Mae",
+   "AMOUNT_TRANSFERRED": 2590,
+   "TRANSACTION_DATE": "2021-11-12",
+   "PAYMENT_TYPE": "china-unionpay",
+   "DUE_DATE": "2022-12-03"
+ },
+ {
+   "PAYMENT_ID": 600501,
+   "LEASE_ID": 18168,
+   "PAYEE_NAME": "Kacy",
+   "AMOUNT_TRANSFERRED": 3027,
+   "TRANSACTION_DATE": "2021-12-01",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-05"
+ },
+ {
+   "PAYMENT_ID": 600506,
+   "LEASE_ID": 19169,
+   "PAYEE_NAME": "Jenna",
+   "AMOUNT_TRANSFERRED": 5874,
+   "TRANSACTION_DATE": "2021-12-06",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-08"
+ },
+ {
+   "PAYMENT_ID": 600516,
+   "LEASE_ID": 10160,
+   "PAYEE_NAME": "Gene",
+   "AMOUNT_TRANSFERRED": 4183,
+   "TRANSACTION_DATE": "2021-12-20",
+   "PAYMENT_TYPE": "china-unionpay",
+   "DUE_DATE": "2023-01-07"
+ },
+ {
+   "PAYMENT_ID": 600517,
+   "LEASE_ID": 18134,
+   "PAYEE_NAME": "Devinne",
+   "AMOUNT_TRANSFERRED": 2734,
+   "TRANSACTION_DATE": "2021-12-05",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-24"
+ },
+ {
+   "PAYMENT_ID": 600525,
+   "LEASE_ID": 13194,
+   "PAYEE_NAME": "Erastus",
+   "AMOUNT_TRANSFERRED": 1103,
+   "TRANSACTION_DATE": "2021-12-18",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-10"
+ },
+ {
+   "PAYMENT_ID": 600542,
+   "LEASE_ID": 11117,
+   "PAYEE_NAME": "Alvan",
+   "AMOUNT_TRANSFERRED": 2360,
+   "TRANSACTION_DATE": "2021-12-28",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2022-10-08"
+ },
+ {
+   "PAYMENT_ID": 600554,
+   "LEASE_ID": 10138,
+   "PAYEE_NAME": "Rodolfo",
+   "AMOUNT_TRANSFERRED": 5297,
+   "TRANSACTION_DATE": "2021-12-17",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-18"
+ },
+ {
+   "PAYMENT_ID": 600557,
+   "LEASE_ID": 19195,
+   "PAYEE_NAME": "Sukey",
+   "AMOUNT_TRANSFERRED": 3186,
+   "TRANSACTION_DATE": "2021-12-09",
+   "PAYMENT_TYPE": "visa-electron",
+   "DUE_DATE": "2023-01-20"
+ },
+ {
+   "PAYMENT_ID": 600559,
+   "LEASE_ID": 18135,
+   "PAYEE_NAME": "Griffin",
+   "AMOUNT_TRANSFERRED": 1975,
+   "TRANSACTION_DATE": "2021-12-27",
+   "PAYMENT_TYPE": "bankcard",
+   "DUE_DATE": "2022-10-29"
+ },
+ {
+   "PAYMENT_ID": 600576,
+   "LEASE_ID": 19183,
+   "PAYEE_NAME": "Berte",
+   "AMOUNT_TRANSFERRED": 1522,
+   "TRANSACTION_DATE": "2021-12-20",
+   "PAYMENT_TYPE": "mastercard",
+   "DUE_DATE": "2022-12-28"
+ },
+ {
+   "PAYMENT_ID": 600577,
+   "LEASE_ID": 18129,
+   "PAYEE_NAME": "Roddie",
+   "AMOUNT_TRANSFERRED": 4219,
+   "TRANSACTION_DATE": "2021-12-19",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-11-01"
+ },
+ {
+   "PAYMENT_ID": 600580,
+   "LEASE_ID": 12140,
+   "PAYEE_NAME": "Dodie",
+   "AMOUNT_TRANSFERRED": 4381,
+   "TRANSACTION_DATE": "2021-11-05",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-09-20"
+ },
+ {
+   "PAYMENT_ID": 600587,
+   "LEASE_ID": 16168,
+   "PAYEE_NAME": "Kristien",
+   "AMOUNT_TRANSFERRED": 5518,
+   "TRANSACTION_DATE": "2021-12-30",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-12-10"
+ },
+ {
+   "PAYMENT_ID": 600589,
+   "LEASE_ID": 12114,
+   "PAYEE_NAME": "Hally",
+   "AMOUNT_TRANSFERRED": 5185,
+   "TRANSACTION_DATE": "2021-11-10",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2023-01-15"
+ },
+ {
+   "PAYMENT_ID": 600601,
+   "LEASE_ID": 19133,
+   "PAYEE_NAME": "Annetta",
+   "AMOUNT_TRANSFERRED": 2395,
+   "TRANSACTION_DATE": "2021-12-29",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-09-14"
+ },
+ {
+   "PAYMENT_ID": 600611,
+   "LEASE_ID": 16151,
+   "PAYEE_NAME": "Benny",
+   "AMOUNT_TRANSFERRED": 5381,
+   "TRANSACTION_DATE": "2021-12-08",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-27"
+ },
+ {
+   "PAYMENT_ID": 600616,
+   "LEASE_ID": 14111,
+   "PAYEE_NAME": "Dov",
+   "AMOUNT_TRANSFERRED": 2799,
+   "TRANSACTION_DATE": "2021-11-19",
+   "PAYMENT_TYPE": "solo",
+   "DUE_DATE": "2022-10-02"
+ },
+ {
+   "PAYMENT_ID": 600620,
+   "LEASE_ID": 13197,
+   "PAYEE_NAME": "Henriette",
+   "AMOUNT_TRANSFERRED": 5844,
+   "TRANSACTION_DATE": "2021-12-04",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-23"
+ },
+ {
+   "PAYMENT_ID": 600622,
+   "LEASE_ID": 14180,
+   "PAYEE_NAME": "Bartram",
+   "AMOUNT_TRANSFERRED": 5429,
+   "TRANSACTION_DATE": "2021-11-13",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-12"
+ },
+ {
+   "PAYMENT_ID": 600627,
+   "LEASE_ID": 18164,
+   "PAYEE_NAME": "Murray",
+   "AMOUNT_TRANSFERRED": 5915,
+   "TRANSACTION_DATE": "2021-12-07",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-08"
+ },
+ {
+   "PAYMENT_ID": 600631,
+   "LEASE_ID": 19181,
+   "PAYEE_NAME": "Barbee",
+   "AMOUNT_TRANSFERRED": 4068,
+   "TRANSACTION_DATE": "2021-11-15",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-11-07"
+ },
+ {
+   "PAYMENT_ID": 600639,
+   "LEASE_ID": 16154,
+   "PAYEE_NAME": "Tabb",
+   "AMOUNT_TRANSFERRED": 1670,
+   "TRANSACTION_DATE": "2021-12-28",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-03"
+ },
+ {
+   "PAYMENT_ID": 600641,
+   "LEASE_ID": 11118,
+   "PAYEE_NAME": "Cammy",
+   "AMOUNT_TRANSFERRED": 2463,
+   "TRANSACTION_DATE": "2021-12-06",
+   "PAYMENT_TYPE": "mastercard",
+   "DUE_DATE": "2022-11-28"
+ },
+ {
+   "PAYMENT_ID": 600643,
+   "LEASE_ID": 11158,
+   "PAYEE_NAME": "Jarrid",
+   "AMOUNT_TRANSFERRED": 3230,
+   "TRANSACTION_DATE": "2021-11-28",
+   "PAYMENT_TYPE": "bankcard",
+   "DUE_DATE": "2022-09-18"
+ },
+ {
+   "PAYMENT_ID": 600665,
+   "LEASE_ID": 15176,
+   "PAYEE_NAME": "Alphonse",
+   "AMOUNT_TRANSFERRED": 4845,
+   "TRANSACTION_DATE": "2021-12-23",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2023-01-18"
+ },
+ {
+   "PAYMENT_ID": 600667,
+   "LEASE_ID": 12160,
+   "PAYEE_NAME": "Aldus",
+   "AMOUNT_TRANSFERRED": 5366,
+   "TRANSACTION_DATE": "2021-12-22",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-03"
+ },
+ {
+   "PAYMENT_ID": 600668,
+   "LEASE_ID": 15148,
+   "PAYEE_NAME": "Muhammad",
+   "AMOUNT_TRANSFERRED": 5900,
+   "TRANSACTION_DATE": "2021-12-22",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-09-30"
+ },
+ {
+   "PAYMENT_ID": 600670,
+   "LEASE_ID": 16186,
+   "PAYEE_NAME": "Valle",
+   "AMOUNT_TRANSFERRED": 2131,
+   "TRANSACTION_DATE": "2021-12-21",
+   "PAYMENT_TYPE": "diners-club-carte-blanche",
+   "DUE_DATE": "2022-09-07"
+ },
+ {
+   "PAYMENT_ID": 600674,
+   "LEASE_ID": 19119,
+   "PAYEE_NAME": "Alexandr",
+   "AMOUNT_TRANSFERRED": 5548,
+   "TRANSACTION_DATE": "2021-12-04",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-08"
+ },
+ {
+   "PAYMENT_ID": 600686,
+   "LEASE_ID": 15164,
+   "PAYEE_NAME": "Di",
+   "AMOUNT_TRANSFERRED": 5051,
+   "TRANSACTION_DATE": "2021-11-13",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-10"
+ },
+ {
+   "PAYMENT_ID": 600687,
+   "LEASE_ID": 16151,
+   "PAYEE_NAME": "Benny",
+   "AMOUNT_TRANSFERRED": 2428,
+   "TRANSACTION_DATE": "2021-11-25",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-16"
+ },
+ {
+   "PAYMENT_ID": 600694,
+   "LEASE_ID": 14119,
+   "PAYEE_NAME": "Ingeborg",
+   "AMOUNT_TRANSFERRED": 1946,
+   "TRANSACTION_DATE": "2021-12-03",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-12-05"
+ },
+ {
+   "PAYMENT_ID": 600713,
+   "LEASE_ID": 10106,
+   "PAYEE_NAME": "Marice",
+   "AMOUNT_TRANSFERRED": 5536,
+   "TRANSACTION_DATE": "2021-12-16",
+   "PAYMENT_TYPE": "mastercard",
+   "DUE_DATE": "2022-10-21"
+ },
+ {
+   "PAYMENT_ID": 600719,
+   "LEASE_ID": 13199,
+   "PAYEE_NAME": "Teddi",
+   "AMOUNT_TRANSFERRED": 1229,
+   "TRANSACTION_DATE": "2021-12-01",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-26"
+ },
+ {
+   "PAYMENT_ID": 600732,
+   "LEASE_ID": 12116,
+   "PAYEE_NAME": "Darbie",
+   "AMOUNT_TRANSFERRED": 5646,
+   "TRANSACTION_DATE": "2021-11-29",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-25"
+ },
+ {
+   "PAYMENT_ID": 600733,
+   "LEASE_ID": 12114,
+   "PAYEE_NAME": "Hally",
+   "AMOUNT_TRANSFERRED": 5268,
+   "TRANSACTION_DATE": "2021-12-13",
+   "PAYMENT_TYPE": "laser",
+   "DUE_DATE": "2022-11-25"
+ },
+ {
+   "PAYMENT_ID": 600736,
+   "LEASE_ID": 17165,
+   "PAYEE_NAME": "Siouxie",
+   "AMOUNT_TRANSFERRED": 5207,
+   "TRANSACTION_DATE": "2021-11-13",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-18"
+ },
+ {
+   "PAYMENT_ID": 600741,
+   "LEASE_ID": 18181,
+   "PAYEE_NAME": "Corena",
+   "AMOUNT_TRANSFERRED": 4874,
+   "TRANSACTION_DATE": "2021-11-14",
+   "PAYMENT_TYPE": "visa",
+   "DUE_DATE": "2022-12-03"
+ },
+ {
+   "PAYMENT_ID": 600744,
+   "LEASE_ID": 11189,
+   "PAYEE_NAME": "Bo",
+   "AMOUNT_TRANSFERRED": 2112,
+   "TRANSACTION_DATE": "2021-12-23",
+   "PAYMENT_TYPE": "americanexpress",
+   "DUE_DATE": "2022-11-21"
+ },
+ {
+   "PAYMENT_ID": 600746,
+   "LEASE_ID": 12160,
+   "PAYEE_NAME": "Aldus",
+   "AMOUNT_TRANSFERRED": 4360,
+   "TRANSACTION_DATE": "2021-12-01",
+   "PAYMENT_TYPE": "bankcard",
+   "DUE_DATE": "2022-10-27"
+ },
+ {
+   "PAYMENT_ID": 600749,
+   "LEASE_ID": 13142,
+   "PAYEE_NAME": "Charlotta",
+   "AMOUNT_TRANSFERRED": 4605,
+   "TRANSACTION_DATE": "2021-12-12",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-10-07"
+ },
+ {
+   "PAYMENT_ID": 600763,
+   "LEASE_ID": 14178,
+   "PAYEE_NAME": "Robinet",
+   "AMOUNT_TRANSFERRED": 3509,
+   "TRANSACTION_DATE": "2021-12-23",
+   "PAYMENT_TYPE": "visa",
+   "DUE_DATE": "2022-09-22"
+ },
+ {
+   "PAYMENT_ID": 600772,
+   "LEASE_ID": 16176,
+   "PAYEE_NAME": "Teodor",
+   "AMOUNT_TRANSFERRED": 1215,
+   "TRANSACTION_DATE": "2021-11-17",
+   "PAYMENT_TYPE": "solo",
+   "DUE_DATE": "2022-09-17"
+ },
+ {
+   "PAYMENT_ID": 600781,
+   "LEASE_ID": 17125,
+   "PAYEE_NAME": "Geordie",
+   "AMOUNT_TRANSFERRED": 1495,
+   "TRANSACTION_DATE": "2021-11-25",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-12"
+ },
+ {
+   "PAYMENT_ID": 600800,
+   "LEASE_ID": 18192,
+   "PAYEE_NAME": "Meryl",
+   "AMOUNT_TRANSFERRED": 4731,
+   "TRANSACTION_DATE": "2021-12-04",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-09-09"
+ },
+ {
+   "PAYMENT_ID": 600806,
+   "LEASE_ID": 15176,
+   "PAYEE_NAME": "Alphonse",
+   "AMOUNT_TRANSFERRED": 4355,
+   "TRANSACTION_DATE": "2021-12-01",
+   "PAYMENT_TYPE": "diners-club-carte-blanche",
+   "DUE_DATE": "2022-12-21"
+ },
+ {
+   "PAYMENT_ID": 600822,
+   "LEASE_ID": 13194,
+   "PAYEE_NAME": "Erastus",
+   "AMOUNT_TRANSFERRED": 3328,
+   "TRANSACTION_DATE": "2021-12-21",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-08"
+ },
+ {
+   "PAYMENT_ID": 600840,
+   "LEASE_ID": 17113,
+   "PAYEE_NAME": "Jeniece",
+   "AMOUNT_TRANSFERRED": 2106,
+   "TRANSACTION_DATE": "2021-11-24",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-12-17"
+ },
+ {
+   "PAYMENT_ID": 600845,
+   "LEASE_ID": 18134,
+   "PAYEE_NAME": "Devinne",
+   "AMOUNT_TRANSFERRED": 5720,
+   "TRANSACTION_DATE": "2021-11-09",
+   "PAYMENT_TYPE": "visa",
+   "DUE_DATE": "2022-12-17"
+ },
+ {
+   "PAYMENT_ID": 600847,
+   "LEASE_ID": 18168,
+   "PAYEE_NAME": "Kacy",
+   "AMOUNT_TRANSFERRED": 2530,
+   "TRANSACTION_DATE": "2021-12-01",
+   "PAYMENT_TYPE": "mastercard",
+   "DUE_DATE": "2022-10-04"
+ },
+ {
+   "PAYMENT_ID": 600852,
+   "LEASE_ID": 14120,
+   "PAYEE_NAME": "Decca",
+   "AMOUNT_TRANSFERRED": 1020,
+   "TRANSACTION_DATE": "2021-12-03",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-15"
+ },
+ {
+   "PAYMENT_ID": 600853,
+   "LEASE_ID": 18198,
+   "PAYEE_NAME": "Oran",
+   "AMOUNT_TRANSFERRED": 1523,
+   "TRANSACTION_DATE": "2021-12-27",
+   "PAYMENT_TYPE": "mastercard",
+   "DUE_DATE": "2022-11-09"
+ },
+ {
+   "PAYMENT_ID": 600854,
+   "LEASE_ID": 19115,
+   "PAYEE_NAME": "Lauretta",
+   "AMOUNT_TRANSFERRED": 3070,
+   "TRANSACTION_DATE": "2021-11-05",
+   "PAYMENT_TYPE": "solo",
+   "DUE_DATE": "2022-12-23"
+ },
+ {
+   "PAYMENT_ID": 600862,
+   "LEASE_ID": 19163,
+   "PAYEE_NAME": "Briny",
+   "AMOUNT_TRANSFERRED": 1315,
+   "TRANSACTION_DATE": "2021-12-12",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-13"
+ },
+ {
+   "PAYMENT_ID": 600864,
+   "LEASE_ID": 19181,
+   "PAYEE_NAME": "Barbee",
+   "AMOUNT_TRANSFERRED": 5636,
+   "TRANSACTION_DATE": "2021-12-07",
+   "PAYMENT_TYPE": "visa-electron",
+   "DUE_DATE": "2022-11-18"
+ },
+ {
+   "PAYMENT_ID": 600867,
+   "LEASE_ID": 18156,
+   "PAYEE_NAME": "Haley",
+   "AMOUNT_TRANSFERRED": 3022,
+   "TRANSACTION_DATE": "2021-12-05",
+   "PAYMENT_TYPE": "visa",
+   "DUE_DATE": "2022-10-27"
+ },
+ {
+   "PAYMENT_ID": 600881,
+   "LEASE_ID": 19187,
+   "PAYEE_NAME": "Jonell",
+   "AMOUNT_TRANSFERRED": 4318,
+   "TRANSACTION_DATE": "2021-12-15",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-19"
+ },
+ {
+   "PAYMENT_ID": 600885,
+   "LEASE_ID": 15106,
+   "PAYEE_NAME": "Shellie",
+   "AMOUNT_TRANSFERRED": 4297,
+   "TRANSACTION_DATE": "2021-12-03",
+   "PAYMENT_TYPE": "diners-club-enroute",
+   "DUE_DATE": "2022-09-04"
+ },
+ {
+   "PAYMENT_ID": 600886,
+   "LEASE_ID": 15108,
+   "PAYEE_NAME": "Elnore",
+   "AMOUNT_TRANSFERRED": 5549,
+   "TRANSACTION_DATE": "2021-12-20",
+   "PAYMENT_TYPE": "bankcard",
+   "DUE_DATE": "2022-10-24"
+ },
+ {
+   "PAYMENT_ID": 600889,
+   "LEASE_ID": 16105,
+   "PAYEE_NAME": "Billy",
+   "AMOUNT_TRANSFERRED": 1243,
+   "TRANSACTION_DATE": "2021-11-12",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-22"
+ },
+ {
+   "PAYMENT_ID": 600892,
+   "LEASE_ID": 14172,
+   "PAYEE_NAME": "Josh",
+   "AMOUNT_TRANSFERRED": 2086,
+   "TRANSACTION_DATE": "2021-11-27",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2023-01-15"
+ },
+ {
+   "PAYMENT_ID": 600902,
+   "LEASE_ID": 12140,
+   "PAYEE_NAME": "Dodie",
+   "AMOUNT_TRANSFERRED": 5676,
+   "TRANSACTION_DATE": "2021-11-13",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-14"
+ },
+ {
+   "PAYMENT_ID": 600916,
+   "LEASE_ID": 19115,
+   "PAYEE_NAME": "Lauretta",
+   "AMOUNT_TRANSFERRED": 3772,
+   "TRANSACTION_DATE": "2021-11-18",
+   "PAYMENT_TYPE": "instapayment",
+   "DUE_DATE": "2023-01-28"
+ },
+ {
+   "PAYMENT_ID": 600919,
+   "LEASE_ID": 19189,
+   "PAYEE_NAME": "Kimberlee",
+   "AMOUNT_TRANSFERRED": 3281,
+   "TRANSACTION_DATE": "2021-12-23",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-12-25"
+ },
+ {
+   "PAYMENT_ID": 600920,
+   "LEASE_ID": 10184,
+   "PAYEE_NAME": "Gustavus",
+   "AMOUNT_TRANSFERRED": 4580,
+   "TRANSACTION_DATE": "2021-11-18",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-11-01"
+ },
+ {
+   "PAYMENT_ID": 600923,
+   "LEASE_ID": 12160,
+   "PAYEE_NAME": "Darb",
+   "AMOUNT_TRANSFERRED": 4232,
+   "TRANSACTION_DATE": "2021-11-19",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-11-24"
+ },
+ {
+   "PAYMENT_ID": 600925,
+   "LEASE_ID": 15109,
+   "PAYEE_NAME": "Saunders",
+   "AMOUNT_TRANSFERRED": 4890,
+   "TRANSACTION_DATE": "2021-11-24",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-16"
+ },
+ {
+   "PAYMENT_ID": 600926,
+   "LEASE_ID": 16102,
+   "PAYEE_NAME": "Edvard",
+   "AMOUNT_TRANSFERRED": 3762,
+   "TRANSACTION_DATE": "2021-11-09",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-08"
+ },
+ {
+   "PAYMENT_ID": 600938,
+   "LEASE_ID": 13121,
+   "PAYEE_NAME": "Hedda",
+   "AMOUNT_TRANSFERRED": 4900,
+   "TRANSACTION_DATE": "2021-11-28",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-01"
+ },
+ {
+   "PAYMENT_ID": 600940,
+   "LEASE_ID": 15119,
+   "PAYEE_NAME": "Geoffrey",
+   "AMOUNT_TRANSFERRED": 2437,
+   "TRANSACTION_DATE": "2021-12-24",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2023-01-12"
+ },
+ {
+   "PAYMENT_ID": 600944,
+   "LEASE_ID": 18183,
+   "PAYEE_NAME": "Meredithe",
+   "AMOUNT_TRANSFERRED": 3720,
+   "TRANSACTION_DATE": "2021-12-28",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-10-23"
+ },
+ {
+   "PAYMENT_ID": 600947,
+   "LEASE_ID": 12116,
+   "PAYEE_NAME": "Darbie",
+   "AMOUNT_TRANSFERRED": 5210,
+   "TRANSACTION_DATE": "2021-12-21",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-10-20"
+ },
+ {
+   "PAYMENT_ID": 600951,
+   "LEASE_ID": 18198,
+   "PAYEE_NAME": "Oran",
+   "AMOUNT_TRANSFERRED": 3819,
+   "TRANSACTION_DATE": "2021-11-07",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2022-10-12"
+ },
+ {
+   "PAYMENT_ID": 600959,
+   "LEASE_ID": 14121,
+   "PAYEE_NAME": "Cyndie",
+   "AMOUNT_TRANSFERRED": 4484,
+   "TRANSACTION_DATE": "2021-12-02",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-06"
+ },
+ {
+   "PAYMENT_ID": 600962,
+   "LEASE_ID": 11136,
+   "PAYEE_NAME": "Klarika",
+   "AMOUNT_TRANSFERRED": 3705,
+   "TRANSACTION_DATE": "2021-12-24",
+   "PAYMENT_TYPE": "mastercard",
+   "DUE_DATE": "2022-12-06"
+ },
+ {
+   "PAYMENT_ID": 600971,
+   "LEASE_ID": 11109,
+   "PAYEE_NAME": "Jaclyn",
+   "AMOUNT_TRANSFERRED": 1214,
+   "TRANSACTION_DATE": "2021-12-14",
+   "PAYMENT_TYPE": "jcb",
+   "DUE_DATE": "2022-09-08"
+ },
+ {
+   "PAYMENT_ID": 600975,
+   "LEASE_ID": 17124,
+   "PAYEE_NAME": "Tomas",
+   "AMOUNT_TRANSFERRED": 3922,
+   "TRANSACTION_DATE": "2021-11-16",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-12-06"
+ },
+ {
+   "PAYMENT_ID": 600983,
+   "LEASE_ID": 14180,
+   "PAYEE_NAME": "Bartram",
+   "AMOUNT_TRANSFERRED": 3375,
+   "TRANSACTION_DATE": "2021-11-24",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-12-13"
+ },
+ {
+   "PAYMENT_ID": 600985,
+   "LEASE_ID": 18164,
+   "PAYEE_NAME": "Murray",
+   "AMOUNT_TRANSFERRED": 5367,
+   "TRANSACTION_DATE": "2021-12-09",
+   "PAYMENT_TYPE": "laser",
+   "DUE_DATE": "2022-10-15"
+ },
+ {
+   "PAYMENT_ID": 600991,
+   "LEASE_ID": 12160,
+   "PAYEE_NAME": "Darb",
+   "AMOUNT_TRANSFERRED": 4973,
+   "TRANSACTION_DATE": "2021-11-13",
+   "PAYMENT_TYPE": "maestro",
+   "DUE_DATE": "2022-10-18"
+ },
+ {
+   "PAYMENT_ID": 600993,
+   "LEASE_ID": 14108,
+   "PAYEE_NAME": "Gilemette",
+   "AMOUNT_TRANSFERRED": 4900,
+   "TRANSACTION_DATE": "2021-12-25",
+   "PAYMENT_TYPE": "switch",
+   "DUE_DATE": "2023-01-19"
+ },
+ {
+   "PAYMENT_ID": 600996,
+   "LEASE_ID": 19197,
+   "PAYEE_NAME": "Cary",
+   "AMOUNT_TRANSFERRED": 2455,
+   "TRANSACTION_DATE": "2021-11-22",
+   "PAYMENT_TYPE": "diners-club-enroute",
+   "DUE_DATE": "2022-11-22"
+ }
+]
