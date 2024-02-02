@@ -1,0 +1,34 @@
+Summary :
+
+### Task 1: Natural Visibility Graph (NVG) and Horizontal Visibility Graph (HVG) Analysis
+
+1. **Data Source:**
+   - Accelerometer data for 15 subjects during walking, running, climbing up, and climbing down.
+
+2. **Analysis:**
+   - Applied NVG and HVG to the accelerometer data for each subject and each activity.
+
+3. **Computations (for each time series with a sample size of 1024 data points):**
+   - Average degree, network diameter, and average path length.
+
+4. **Results Tabulation:**
+   - A table presenting the results for each subject, accelerometer axis, method (HVG or NVG), and activity.
+
+5. **Scatter Plots:**
+   - Generated scatter plots for average degree vs network diameter, color-coded according to walking/running and climbing up/down.
+   - Separate plots for each accelerometer signal and each method (HVG and NVG).
+
+### Task 2: Permutation Entropy and Complexity Analysis
+
+1. **Data Source:**
+   - Same accelerometer data in all three directions for walking, running, climbing up, and climbing down.
+
+2. **Computations (varying parameters):**
+   - Permutation entropy and complexity for different combinations of embedded dimension (3, 4, 5, 6), embedded delay (1, 2, 3), and signal length (1024, 2048, 4096).
+
+3. **Scatter Plots:**
+   - Generated scatter plots for permutation entropy vs complexity, color-coded according to walking/running and climbing up/down.
+   - Specifically, for signal length = 4096, embedded delay = 1, embedded dimension = 3, 4, 5, 6, and all three accelerometer directions.
+
+
+This summary outlines the major steps, computations, and expected outputs for both Task 1 and Task 2 in the project. 
