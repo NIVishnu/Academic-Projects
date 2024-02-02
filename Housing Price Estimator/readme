@@ -1,0 +1,18 @@
+Problem Setting:
+
+The Housing Price Estimator is to develop a model that can accurately predict the sale price of a residential property based on a set of features such as square footage,
+number of bedrooms and bathrooms, etc. The model should be able to help real estate professionals and potential buyers and sellers with a valuable tool for determining the fair market value of a property, 
+and it should be robust and accurate enough to make predictions even when faced with new and unseen data, while also accounting for local market variations in housing prices.
+
+Problem Definition:
+
+The main objective of the model is to identify which algorithm best suits the dataset to predict the price of the property. In today’s world due to the ever-changing economy,
+it is difficult to estimate the fair price of a property. The model should be able to handle a wide range of input features, including categorical variables as well as numerical variables. 
+The model should be able to handle missing or incomplete data for some input features to predict the sale price of a house within a certain range of error. 
+Hence, this model helps in predicting the fair price of the property to potential buyers and sellers.
+
+Data Description:
+
+The dataset includes information about houses, including amenities, the area of the house, and the location of the house. It contains 42703 observations and 19 variables, with both numerical and categorical data.
+
+
