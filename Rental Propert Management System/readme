@@ -1,0 +1,15 @@
+Summary:
+
+The primary objective of this study was to design and implement a relational database 
+system to ease the process of Rental Management. It helps to track the profit margin 
+using revenue generated and customers to find the apartments based on budget 
+preferences. It also helps to track the maintenance requests for the apartments to find out 
+which apartment required more maintenance.
+The database was designed with the data fields that customers and landlords need. The 
+conceptual model was mapped to a relational model with the necessary primary and 
+foreign keys after the EER and UML diagrams were modelled. This database was then 
+implemented in MySQL and implemented in MongoDB NoSQL database to study the 
+feasibility of this database in a NoSQL environment.
+The created database is connected to R and visualization of analyzed data helps landlord, 
+customer, and our firm to improve the standards of Rental Management System. This 
+also helps us to predict and manage the resources needed to customers without delays.
