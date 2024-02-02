@@ -1,0 +1,32 @@
+Summary:
+
+### 1. Clustering Methods:
+- **K-means Clustering:**
+  - Applied the K-means algorithm to group countries based on selected attributes.
+  - Determined the optimal number of clusters (K) using methods like the Elbow method or Silhouette score.
+
+- **Hierarchical Clustering:**
+  - Employed hierarchical clustering to group countries based on similarity.
+  - Used linkage methods (e.g., Ward, Complete, Average) and a dendrogram to visualize cluster structures.
+
+### 2. Internal Validation Metrics:
+- Utilized internal validation metrics such as Silhouette score, Davies-Bouldin index, or Inertia for K-means to assess the quality of the clusters.
+- Employed metrics like Cophenetic correlation coefficient for hierarchical clustering.
+
+### 3. Best Clustering Solution:
+- Determined the best clustering solution based on a combination of internal validation metrics and the interpretability of the clusters.
+- Considered both methods' results to ensure robustness.
+
+### 4. Cluster Details:
+- Provided a detailed list of all the groups formed by each method and the countries included within each group.
+- Described the characteristics of each cluster to offer insights into the similarities among countries.
+
+### 5. Scatter Plots:
+- Generated three scatter plots, such as "Life Expectancy vs GDP," "Infant Mortality vs GDP," and another of your choice.
+- Colored the data points according to the identified clusters to visually represent the grouping.
+
+### 6. Interpretation and Conclusion:
+- Interpreted the results, highlighting the key findings and patterns within the clusters.
+- Concluded by summarizing the overall effectiveness of the clustering methods and their relevance to the selected attributes.
+
+This summary provides an overview of the steps taken, metrics used, and the final outcomes in terms of clustering solutions and visualizations. 
